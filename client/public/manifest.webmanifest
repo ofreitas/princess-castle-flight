@@ -1,0 +1,21 @@
+{
+  "name": "Princess Castle Flight",
+  "short_name": "Castle Flight",
+  "description": "A one-touch storybook arcade flight to the faraway castle.",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#B9D6E1",
+  "theme_color": "#F7B84B",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "/manus-storage/princess-castle-flight-logo_fdef5d90.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
